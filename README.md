@@ -9,6 +9,10 @@ A command line program runner a la nodemon.
 3. Install dependencies: `npm i`
 4. In terminal: `chmod +x index.js`
 
+# Usage
+
+`watchit <filename>` where filename is a relative path
+
 # Thanks
 
 Stephen Grider, chokidar, chalk, caporal
